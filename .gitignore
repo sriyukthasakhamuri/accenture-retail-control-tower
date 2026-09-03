@@ -7,3 +7,5 @@ __pycache__/
 data/raw/
 data/processed/*.csv
 data/analytics/*.duckdb
+# Power BI generated datasets
+data/powerbi/*.csv
