@@ -66,24 +66,23 @@ Power BI Dashboard
 
 ### 1. Executive Overview
 
-![Executive Overview](dashboards/screenshots/01_executive_overview.png)
+![Executive Overview](./dashboards/screenshots/01_executive_overview.png)
 
 ### 2. Sales & Product Performance
 
-![Sales & Product Performance](dashboards/screenshots/02_sales_product_performance.png)
+![Sales & Product Performance](./dashboards/screenshots/02_sales_product_performance.png)
 
 ### 3. Delivery & Operations
 
-![Delivery & Operations](dashboards/screenshots/03_delivery_operations.png)
+![Delivery & Operations](./dashboards/screenshots/03_delivery_operations.png)
 
 ### 4. Customer & Payment Behavior
 
-![Customer & Payment Behavior](dashboards/screenshots/04_customer_payment_behavior.png)
+![Customer & Payment Behavior](./dashboards/screenshots/04_customer_payment_behavior.png)
 
 ### 5. Geographic & Risk Control Tower
 
-![Geographic & Risk Control Tower](dashboards/screenshots/05_geographic_risk_control_tower.png)
-
+![Geographic & Risk Control Tower](./dashboards/screenshots/05_geographic_risk_control_tower.png)
 ## Data Modeling
 
 The analytics layer uses fact and dimension tables including:
